@@ -6,7 +6,7 @@ This git contains the exercise for your DS course, it is based, mainly, on the [
 First thing you will have to do is clone this git into your computer, if you are not familiar with cloning (or git in general), take a look [here](https://gist.github.com/brandon1024/14b5f9fcfd982658d01811ee3045ff1e),
 once you have done that you should have all needed files in a local directory.
 
-Second you will need to insatall Jupyter Notebook (if you don't have it yet) and open it, if you need any guidance go to the [docs](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html).
+Second you will need to install Jupyter Notebook (if you don't have it yet) and open it, if you need any guidance go to the [docs](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html).
 Once Jupyter is up and running, use it's file explorer to find the excercise notebooks in the notebooks directories under each subject.
 
 Complete the notebooks by adding your answers (short to say, long to do :))
