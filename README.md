@@ -1,7 +1,7 @@
-# Course Excersice
+# Course Exercise
 Hi,
 
-This git contains the excersice for your DS course, it is based, mainly, on the [Kaggle's micro courses](https://www.kaggle.com/learn) but was converted into regular Jupyter notebooks and all data is self conatined.
+This git contains the exercise for your DS course, it is based, mainly, on the [Kaggle's micro courses](https://www.kaggle.com/learn) but was converted into regular Jupyter notebooks and all data is self conatined.
 
 First thing you will have to do is clone this git into your computer, if you are not familiar with cloning (or git in general), take a look [here](https://gist.github.com/brandon1024/14b5f9fcfd982658d01811ee3045ff1e),
 once you have done that you should have all needed files in a local directory.
