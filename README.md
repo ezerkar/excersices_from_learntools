@@ -13,9 +13,10 @@ Complete the notebooks by adding your answers (short to say, long to do :))
 don't forget to hit save every once in a while.
 Once the excercise is done, download it as a notebook (.ipynb) file and email it to your instructor.
 
-Currently there are 2 subjects:
+Currently there are 3 subjects:
 1. [Pandas](https://pandas.pydata.org/), questions dealing with data manipulation and analysis.
 2. Visualization, create plots (using [Matplotlib](https://matplotlib.org/) or [Seaborn](https://seaborn.pydata.org/), your choice, except for a couple of Seaborn specific tasks) and answering logic questions based on their understanding.
+3. ML, Basics of Supervised ML
 
 
 
